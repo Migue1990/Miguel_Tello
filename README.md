@@ -1,2 +1,3 @@
-# Miguel_Tello
-documento con el DER_Trabajo Practico Integrador
+# Miguel_Tello 
+documento con el DER_Trabajo Practico Integrador.
+script SQL.
